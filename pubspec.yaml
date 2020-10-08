@@ -8,7 +8,7 @@ description: >-
 
 environment:
   # This must remain a tight constraint until nnbd is stable
-  sdk: '>=2.11.0-180.0.dev <2.11.0'
+  sdk: '>=2.10.0 <2.11.0'
 
 dependencies:
   clock: ^1.0.1
